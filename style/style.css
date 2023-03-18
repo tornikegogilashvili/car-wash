@@ -446,7 +446,7 @@ footer{
 
 /* ---------end -------- */
 /* ------media ------- */
-@media screen and (max-width:390px) {
+@media screen and (max-width:400px) {
     /* -------index.html------- */
     .header{
         width: 100%;
